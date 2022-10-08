@@ -1,4 +1,4 @@
-# puppetter-typescript-template
+# puppeteer-typescript-template
 
 Puppetter's TypeScript template.
 
